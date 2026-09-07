@@ -15,7 +15,7 @@ This project began as a digital-healthcare hackathon solution and was developed 
 
 ## Data structure
 
-![Data structure](assets/figure-01-data-structure.png)
+![Data structure](assets/figure-01-data-structure.svg)
 
 The symposium version used:
 
@@ -32,7 +32,7 @@ Daily records were ordered by date and modeled as time-series sequences.
 
 The LSTM was used to learn longer-term changes in participant state from ordered daily observations.
 
-![Model results](assets/figure-02-model-results.png)
+![Model results](assets/figure-02-model-results.svg)
 
 | Outcome | Test R² |
 |---|---:|
@@ -45,7 +45,7 @@ These results were presented as supportive predictive indicators for monitoring 
 
 The project also connected the prediction pipeline to a mobile-service concept for daily input, trend visualization, and personalized reporting.
 
-![Personalized report](assets/figure-03-personalized-report.png)
+![Personalized report](assets/figure-03-personalized-report.svg)
 
 The prototype included daily survey collection and personalized displays of response history / predicted mental-health trends.
 
@@ -61,13 +61,11 @@ The later symposium work extended the modeling and research presentation around 
 
 ## Project outputs
 
-- [`outputs/hackathon-public-excerpt.pdf`](outputs/hackathon-public-excerpt.pdf) - public excerpt from the Grand Prize hackathon presentation.
-- [`outputs/yongin-severance-hackathon-grand-prize.pdf`](outputs/yongin-severance-hackathon-grand-prize.pdf) - award certificate.
-- [`outputs/avison-symposium-public-excerpt.pdf`](outputs/avison-symposium-public-excerpt.pdf) - selected slides from the 23rd Avison Biomedical Symposium 2026 presentation.
+- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance and public-safe evidence from the hackathon, award, and Avison symposium stages.
 
 ## Data & privacy
 
-No participant-level mental-health records are redistributed. Figures in this repository are presentation-level aggregates / diagrams and prototype screens.
+No participant-level mental-health records are redistributed. Figures in this repository are presentation-level aggregates / diagrams and prototype-flow reconstructions.
 
 ---
 
