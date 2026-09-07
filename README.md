@@ -61,11 +61,14 @@ The later symposium work extended the modeling and research presentation around 
 
 ## Project outputs
 
-- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance and public-safe evidence from the hackathon, award, and Avison symposium stages.
+- [`outputs/hackathon-public-technical-excerpt.pdf`](outputs/hackathon-public-technical-excerpt.pdf) - public-safe excerpt of the hackathon-stage project.
+- [`outputs/avison-symposium-public-excerpt.pdf`](outputs/avison-symposium-public-excerpt.pdf) - public-safe excerpt of the symposium-stage research presentation.
+- [`outputs/grand-prize-award-verification.pdf`](outputs/grand-prize-award-verification.pdf) - public portfolio verification note for the Grand Prize recognition.
+- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance and public-release notes.
 
 ## Data & privacy
 
-No participant-level mental-health records are redistributed. Figures in this repository are presentation-level aggregates / diagrams and prototype-flow reconstructions.
+No participant-level mental-health records are redistributed. Figures in this repository are presentation-level aggregates / diagrams and public-safe prototype-flow reconstructions.
 
 ---
 
