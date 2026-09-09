@@ -22,6 +22,12 @@ The final research framework connected three components:
 2. **Derived feature contribution analysis**
 3. **Personalized monitoring and reporting prototype**
 
+## Portfolio-aligned main figure
+
+![Digital phenotype mental-health prediction analysis](https://raw.githubusercontent.com/Juna0926/Portfolio/main/assets/media/research-digital-health.webp)
+
+*Representative figure synchronized with the current Portfolio detail page, showing the LSTM-based mental-health prediction and derived-feature analysis framing.*
+
 ## Longitudinal data framework
 
 ![Data structure](assets/figure-01-data-structure.svg)
